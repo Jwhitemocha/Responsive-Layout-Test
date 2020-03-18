@@ -1,3 +1,14 @@
-# Week2HW
+# Week2HW Responsive Portfolio
 
-Creating a new portfolio page, this time utilizing bootstrap to make the page more fluid and responsive.
+**Purpose**
+
+Creating a fully responsive mock-up portfolio page, utilizing Bootstrap.
+
+**HTML** 
+
+Main wireframe of the page, using different divs to target certain elements with CSS
+
+**CSS** 
+
+Main source of design, boostrap gives nice simple options but I wanted to design the page a little further. 
+
