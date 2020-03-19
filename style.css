@@ -10,25 +10,29 @@
 
 /* Home Page */
 #home { 
-    background-color: salmon;
-    background-size: 100vh;
+    background: url(goran-ivos-idmvPhF8t4E-unsplash.jpg) no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
 }
 
-.hello { 
+.landing-text { 
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.landing-text h1 { 
+    font-size: 5rem;
+    font-weight: 500;
+}
+
+/* About Me Page */
+
+#profilePic img { 
+    width: 13rem;
+    height: 17rem;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-/* About Me */
-
-#aboutMe { 
-    background-color: salmon;
-    background-size: 100vh;
-}
-
-.aboutMeHead { 
-    position: absolute;
-    text-align: top center;
 }
